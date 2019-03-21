@@ -1,6 +1,6 @@
 {
   "name": "hypermidi",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Load and play MIDI from Hyperdrive over the DAT network",
   "main": "index.js",
   "scripts": {
