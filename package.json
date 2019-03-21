@@ -1,0 +1,26 @@
+{
+  "name": "hypermidi",
+  "version": "0.0.1",
+  "description": "Load and play MIDI from Hyperdrive over the DAT network",
+  "main": "index.js",
+  "scripts": {
+    "lint": ":",
+    "test": ":"
+  },
+  "keywords": [
+    "hyper",
+    "midi",
+    "hyperdrive",
+    "dat"
+  ],
+  "author": "Joseph Werle <joseph.werle@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "discovery-swarm-web": "^1.0.4",
+    "budo": "^11.6.1"
+  },
+  "dependencies": {
+    "random-access-memory": "^3.1.1",
+    "timidity": "^1.0.1"
+  }
+}
